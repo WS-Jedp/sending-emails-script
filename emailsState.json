@@ -1,0 +1,27 @@
+{
+    "status": {
+        "code": 1,
+        "name": "OK"
+    },
+    "content": {
+        "payersEmailsState": [
+            {
+                "sentAbout": [
+                    "10013838749",
+                    "1001678323",
+                    "1001687339",
+                    "1234543",
+                    "1234562",
+                    "12345678",
+                    "123456780",
+                    "12345679",
+                    "234521",
+                    "345678",
+                    "456721"
+                ],
+                "errorsWith": [],
+                "payerEmail": "juan.deossa@beereaders.com"
+            }
+        ]
+    }
+}
