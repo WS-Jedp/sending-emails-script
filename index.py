@@ -22,7 +22,7 @@ def getEmailsFromCSV():
     for email in emails:
 
         if(AVOID_EMAILS):
-            ignore_emails = json.dumps(AVOID_EMAILS)
+            ignore_emails = json.loads(AVOID_EMAILS)
             if(email in ignore_emails):
                 continue
 
